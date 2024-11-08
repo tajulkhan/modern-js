@@ -71,3 +71,5 @@ class pizzaa{
 const myPizzaa = new pizzaa("small");
 myPizzaa.back()
 console.log(myPizzaa.getCrust());
+
+///
